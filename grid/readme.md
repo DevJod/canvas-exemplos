@@ -4,7 +4,7 @@ Grid
 
 Veja o resultado:
 
-![](https://raw.githubusercontent.com/flaviomicheletti/canvas/master/grid/resultado.png "Linhas coloridas aleatórias")
+![](https://raw.githubusercontent.com/flaviomicheletti/canvas/master/grid/resultado.png "Grid Lines")
 
 Matéria explicando o código em [www.devfuria.com.br - Grid Lines](http://www.devfuria.com.br/js/canvas/canvas-grid/) (Live demo)
 
