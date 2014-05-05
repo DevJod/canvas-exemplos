@@ -28,7 +28,7 @@
         
         <p>Matéria explicando o código em <a href="http://localhost/devfuria/www.devfuria.com.br/js/canvas/foo/index.php">www.devfuria.com.br - Linhas randômicas coloridas</a>
         
-        <p>Desenvolvido por <a href="https://github.com/flaviomicheletti">Flávio Micheletti (github)</a></p>
+        <p>Desenvolvido por <a href="https://github.com/flaviomicheletti/canvas">Flávio Micheletti (github)</a></p>
         
         <p>Inspirado no trabalho de <a href="http://webmediadev.wordpress.com/2011/10/14/js-exercise-random-lines/">webmediadev</a></p>
         

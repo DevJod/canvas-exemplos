@@ -8,5 +8,4 @@ Veja o resultado:
 
 Matéria explicando o código em [www.devfuria.com.br - Linhas randômicas coloridas](http://www.devfuria.com.br/js/canvas/canvas-linhas-rando-coloridas/) (Live demo)
 
-
 Inspirado no trabalho de [webmediadev](http://webmediadev.wordpress.com/2011/10/14/js-exercise-random-lines/)

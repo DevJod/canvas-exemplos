@@ -26,9 +26,9 @@
         
         <p><strong>Uma função utilitária para teste visual</strong></p>
         
-        <!--<p>Matéria explicando o código em <a href="http://localhost/devfuria/www.devfuria.com.br/js/canvas/foo/index.php">www.devfuria.com.br - Linhas randômicas coloridas</a>-->
+        <p>Matéria explicando o código em <a href="http://www.devfuria.com.br/js/canvas/canvas-grid/">www.devfuria.com.br - Grid Lines</a>
         
-        <p><a href="https://github.com/flaviomicheletti">Fork me on git hub</a></p>
+        <p><a href="https://github.com/flaviomicheletti/canvas">Fork me on git hub</a></p>
         
         <script src="index.js"></script>
     </body>
