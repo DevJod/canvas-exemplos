@@ -1,7 +1,6 @@
 Linhas randômicas coloridas
 ===
 
-Este foi o primeiro da coleção.
 
 Veja o resultado:
 
