@@ -1,10 +1,10 @@
-Linhas randômicas coloridas
+Retângulos randômicos coloridos
 ===
 
 
 Veja o resultado:
 
-![](rcontent.com/flaviomicheletti/canvas/master/retangulos-rando/resultado.png "Retângulos aleatórios")
+![](https://raw.githubusercontent.com/flaviomicheletti/canvas/master/retangulos-rando/resultado.png "Retângulos randômicos coloridos")
 
 Matéria explicando o código em [www.devfuria.com.br - Linhas randômicas coloridas](http://www.devfuria.com.br/js/canvas/canvas-linhas-rando-coloridas/) (Live demo)
 
