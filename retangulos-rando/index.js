@@ -33,7 +33,7 @@ function draw(coor) {
 
     rect = coor.retangulo();
     context.strokeRect(rect.x, rect.y, rect.width, rect.height);
-}
+};
 
 /**
  * Repetindo
