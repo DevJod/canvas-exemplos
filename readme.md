@@ -6,7 +6,7 @@ Fique a vontade se quiser colaborar ou criar sua própria coleção apartir dest
 
 ### Lista
 
-- [Boilerplate](/boilerplate/readme.md)
+- [Boilerplate](boilerplate/readme.md)
 - [Linhas randômicas coloridas](linhas-rando-coloridas/readme.md)
-- [Retângulos randômicos coloridos](https://github.com/devfuria/canvas/tree/master/retangulos-rando)
-- [Grid](https://github.com/devfuria/canvas/tree/master/grid)
+- [Retângulos randômicos coloridos](retangulos-rando/readme.md)
+- [Grid](grid/readme.md)
