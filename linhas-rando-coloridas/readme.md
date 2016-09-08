@@ -1,12 +1,8 @@
 Linhas randômicas coloridas
 ===
 
-Este foi o primeiro da coleção.
-
-Veja o resultado:
-
 ![](https://raw.githubusercontent.com/flaviomicheletti/canvas/master/linhas-rando-coloridas/resultado.png "Linhas coloridas aleatórias")
 
-Matéria explicando o código em [www.devfuria.com.br - Linhas randômicas ](http://www.devfuria.com.br/javascript/canvas/col-linhas-rando/) (Live demo)
+Matéria e demo em [www.devfuria.com.br - Linhas randômicas ](http://www.devfuria.com.br/javascript/canvas/col-linhas-rando/)
 
 Inspirado no trabalho de [webmediadev](http://webmediadev.wordpress.com/2011/10/14/js-exercise-random-lines/)

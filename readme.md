@@ -1,10 +1,6 @@
-Coleções de canvas (html5 + js)
-==============================
+# Coleções de códigos Canvas (html5 + js)
 
 Fique a vontade se quiser colaborar ou criar sua própria coleção apartir desta aqui.
-
-
-### Lista
 
 - [Boilerplate](boilerplate/readme.md)
 - [Linhas randômicas coloridas](linhas-rando-coloridas/readme.md)
